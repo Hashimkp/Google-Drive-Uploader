@@ -1,0 +1,29 @@
+{
+  "name": "Gdrive-Mirror-bot-Heroku",
+  "description": "This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.",
+  "logo": "https://telegra.ph/file/55cadc1697ae944a7f432.png",
+  "keywords": [
+    "telegram",
+    "mirror",
+    "googledrive"
+  ],
+  "repository": "https://github.com/Hashimkp/Google-Drive-Uploader",
+  "success_url": "https://telegram.dog/LeechYourTorrentsBot",
+  "website": "https://github.com/Hashimkp/Google-Drive-Uploader",  
+  "env": {
+    "BOT_TOKEN": {
+      "description": "The telegram bot token that you get from @BotFather",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org",
+      "value": ""
+    
+    }
+  },
+  "stack": "container"
+}
