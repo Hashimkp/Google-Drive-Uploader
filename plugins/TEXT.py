@@ -32,7 +32,7 @@ HELP = """   <b>AUTHORISE BOT</b>
             
             + More On Its way:)
                 
-Bug Report @aryanvikash
+Bug Report @RiDerOO7
         """
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Extremely Slow"
@@ -41,8 +41,8 @@ DOWN_TWO = True
 DOWNLOAD = "Downloading Started ..."
 DOWN_MEGA = "Downloading Started... \n  Mega Links are \n Extremely Slow :("
 DOWN_COMPLETE = "Downloading complete !!"
-NOT_AUTH = "You Are Not Authorised To Using this Bot \n\n Please Authorise Me Using /auth  \n\n @aryanvikash"
-REVOKE_FAIL = "You Are Already UnAuthorised \n. Please Use /auth To Authorise \n\n report At @aryanvikash "
+NOT_AUTH = "You Are Not Authorised To Using this Bot \n\n Please Authorise Me Using /auth  \n\n @RiDerOO7"
+REVOKE_FAIL = "You Are Already UnAuthorised \n. Please Use /auth To Authorise \n\n report At @RiDerOO7 "
 AUTH_SUCC = "Authorised Successfully  !! \n\n Now Send me A direct Link :)"
 ALREADY_AUTH = "You Are Already Authorised ! \n\n Wanna Change Drive Account? \n\n Use /revoke \n\n report At @aryanvikash "
 AUTH_URL = '<a href ="{}">Vist This Url</a> \n Generate And Copy Your Google Drive Token And Send It To Me'
@@ -51,7 +51,7 @@ REVOKE_TOK = " Your Token is Revoked Successfully !! \n\n Use /auth To Re-Author
 # DOWN_PATH = "Downloads\\" #windows path
 DOWN_PATH = "Downloads/"  # Linux path
 DOWNLOAD_URL = "Your File Uploaded Successfully \n\n <b>Filename</b> : {} \n\n <b> Size</b> : {} MB \n\n <b>Download</b> {}"
-AUTH_ERROR = "AUTH Error !! Please  Send Me a  valid Token or Re - Authorise Me  \n\n report At @aryanvikash"
+AUTH_ERROR = "AUTH Error !! Please  Send Me a  valid Token or Re - Authorise Me  \n\n report At @RiDerOO7"
 OPENLOAD = True
 DROPBOX = True
 MEGA = True
